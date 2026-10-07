@@ -17,12 +17,19 @@ All solutions are in Python 3.
 | 5 | Sparse Arrays | Hash Maps | O(N + Q) | O(N) | [solution.py](05-Sparse-Arrays/solution.py) |
 
 ## Screenshots
-Add your "Accepted" submission screenshots and badge screenshots to the `screenshots/` folder, then embed them here:
+### Accepted submissions
 
-```markdown
-![Diagonal Difference accepted](screenshots/01-diagonal-difference.png)
-![HackerRank badges](screenshots/badges.png)
-```
+| Problem | Screenshot |
+| --- | --- |
+| Diagonal Difference | ![Diagonal Difference accepted submission](screenshots/diagonal-difference.png) |
+| Dynamic Array | ![Dynamic Array accepted submission](screenshots/dynamic-array.png) |
+| Time Conversion | ![Time Conversion accepted submission](screenshots/time-conversion.png) |
+| Compare the Triplets | ![Compare the Triplets accepted submission](screenshots/compare-the-triplets.png) |
+| Sparse Arrays | ![Sparse Arrays accepted submission](screenshots/sparse-arrays.png) |
+
+### HackerRank profile
+
+![HackerRank profile for mohan_shenoy43](screenshots/profile.png)
 
 ## Running locally
 ```bash
